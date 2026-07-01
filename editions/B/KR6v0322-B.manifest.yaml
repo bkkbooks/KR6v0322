@@ -1,0 +1,226 @@
+canonical_identifier: bkk:krp/KR6v0322/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0322/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛般若波羅蜜經講義
+  identifiers:
+    krp: KR6v0322
+    cbeta: B07n0023
+    cbeta_old_id: B07n0023
+    authorityid: CA0006107
+    json_key: B0023
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B07/B07n0023.xml
+    old_id: B07n0023
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0322_000-B.yaml, hash: 'sha256:c2d7999fd56aa242a6ac105f0d9dcbef8df490bdce48778a8e7dab0ff1faa2d9'}
+  - {seq: 1, filename: KR6v0322_001-B.yaml, hash: 'sha256:e5a37e99a5563ddc992160b97347950e1c16793f3c242be36a048735085b3133'}
+  - {seq: 2, filename: KR6v0322_002-B.yaml, hash: 'sha256:a886d1b96767786c81875057712c044564c0476c25bdf9a088712b65c467e855'}
+  - {seq: 3, filename: KR6v0322_003-B.yaml, hash: 'sha256:a90597aa4de92b449e9afed51784021fe721a6ffa7edc450982313ed7ab1097d'}
+  - {seq: 4, filename: KR6v0322_004-B.yaml, hash: 'sha256:0aa4718014a90d663c8ec82051cacd5c2cc01cd43e9a350a0e28df5ebce9a045'}
+  - {seq: 5, filename: KR6v0322_005-B.yaml, hash: 'sha256:5ffc00ea1d27cbdfcdf9bbf2b87f61f1ea07ab9c44c099f19894b666f3dd353e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0322_000-B.markers.yaml, hash: 'sha256:5bcc74c4e880186ca5919cfe9692fe00d3393d96630ccb6e54f50d02a7c16e9b'}
+  - {seq: 1, role: markers, filename: assets/KR6v0322_001-B.markers.yaml, hash: 'sha256:50dce3f883281fee926322ea8a3a58a66f4b87f1fbf15f27585673999d9699e2'}
+  - {seq: 2, role: markers, filename: assets/KR6v0322_002-B.markers.yaml, hash: 'sha256:1fbfe3c732ae5e69d037b97b04e1c4133981e13b97d71b042f290758673b0b93'}
+  - {seq: 3, role: markers, filename: assets/KR6v0322_003-B.markers.yaml, hash: 'sha256:db3a81c497159d5ca60c16e13fb8ca32266c74664f8a577068ac1b7c2ca120e0'}
+  - {seq: 4, role: markers, filename: assets/KR6v0322_004-B.markers.yaml, hash: 'sha256:59817f899b5130ebcff6d73d062a5b5113d1f6083f8e80ccde1b9950e1bb627a'}
+  - {seq: 5, role: markers, filename: assets/KR6v0322_005-B.markers.yaml, hash: 'sha256:e8f2ebce287bce98166cc02741110512734ff39cbea4a50a155b01da11a27c3f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0322_B_000-mulu-1
+    span:
+    - front
+    - 55
+    - 55
+  label: 蔣敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0322_B_000-mulu-2
+    span:
+    - front
+    - 986
+    - 986
+  label: 范敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0322_B_000-mulu-3
+    span:
+    - front
+    - 1471
+    - 1471
+  label: 例言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0322_B_000-mulu-4
+    span:
+    - front
+    - 1672
+    - 1672
+  label: 江味農居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0322_B_000-mulu-5
+    span:
+    - front
+    - 4134
+    - 4134
+  label: 講義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0322_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 21158
+  label: 金剛般若波羅蜜經講義卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0322_B_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 總釋名題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0322_B_001-mulu-2
+    span:
+    - body
+    - 67
+    - 67
+  label: 釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0322_B_001-mulu-3
+    span:
+    - body
+    - 18196
+    - 18196
+  label: 釋人題
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0322_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 58002
+  label: 金剛般若波羅蜜經講義卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0322_B_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 別解文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0322_B_002-mulu-2
+    span:
+    - body
+    - 409
+    - 409
+  label: 序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0322_B_002-mulu-3
+    span:
+    - body
+    - 9668
+    - 9668
+  label: 正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0322_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 117966
+  label: 金剛般若波羅蜜經講義卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0322_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 51125
+  label: 金剛般若波羅蜜經講義卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0322_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 56595
+  label: 金剛般若波羅蜜經講義卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0322_B_005-mulu-1
+    span:
+    - body
+    - 35524
+    - 35524
+  label: 流通分
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0322_B_005-mulu-2
+    span:
+    - body
+    - 51483
+    - 51483
+  label: 校勘記
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0322_B_005-mulu-3
+    span:
+    - body
+    - 55837
+    - 55837
+  label: 校正本跋
+  type: mulu
+  level: 1
+hash: sha256:4e51ee7572c0a07de1953d66f38dd177acfb7b2ce38cda28058a2ad673ba07b3
