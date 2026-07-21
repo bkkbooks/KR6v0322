@@ -18,14 +18,14 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0322_000.yaml, hash: 'sha256:d980729daaf9ca3558bb109686aa5a6925bdc547338688221641ef1850a55efd'}
+  - {seq: 0, filename: KR6v0322_000.yaml, hash: 'sha256:7dfa73cca271ef883a88fb153fe10a38d36f43b205cbc839622ec72de87e3040'}
   - {seq: 1, filename: KR6v0322_001.yaml, hash: 'sha256:23a89759d2c84fe5a299938b80dfebfe2751605ac5f434daed1c5e9e09f28913'}
   - {seq: 2, filename: KR6v0322_002.yaml, hash: 'sha256:8b708832b02962bfc3c61bb1fae1a5af41807e9144dd477f2d820448656fe871'}
   - {seq: 3, filename: KR6v0322_003.yaml, hash: 'sha256:0773f8061203d69363e7861191bbc7c266c7b0fe3c5eb841f7704767fa6393fb'}
   - {seq: 4, filename: KR6v0322_004.yaml, hash: 'sha256:1e33883ff77a3cdfa5f69fd34633e01fd65414c4dd2e962f2191eef6ee2266f8'}
   - {seq: 5, filename: KR6v0322_005.yaml, hash: 'sha256:6964b73ef2616f1fbaaad58a2299394213fb24f9876b355a45175225ba926551'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0322_000.markers.yaml, hash: 'sha256:a6fae9331f8ebc5676e78cd4037fc64933e0f80b1f0375ce879e15cbd88ef5f5'}
+  - {seq: 0, role: markers, filename: assets/KR6v0322_000.markers.yaml, hash: 'sha256:ac1513936b13ef1253c211c18868869504a7e106b82c20eeece2d394beae969a'}
   - {seq: 1, role: markers, filename: assets/KR6v0322_001.markers.yaml, hash: 'sha256:d689b1c4dce24b5e9d2210e9a1777f789413d7409414f2a2b53c91f599858598'}
   - {seq: 2, role: markers, filename: assets/KR6v0322_002.markers.yaml, hash: 'sha256:eeece0b161e828514213a665cba6ad85fd891507b657f453abe35098242267f1'}
   - {seq: 3, role: markers, filename: assets/KR6v0322_003.markers.yaml, hash: 'sha256:3f503df2c88e0eb0e049fa42db22e4fa5d6caa0bfb9d083359d03acca23f3f16'}
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0322_B_000-mulu-1
     span:
-    - front
+    - body
     - 55
     - 55
   label: 蔣敘
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0322_B_000-mulu-2
     span:
-    - front
+    - body
     - 986
     - 986
   label: 范敘
@@ -56,7 +56,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0322_B_000-mulu-3
     span:
-    - front
+    - body
     - 1471
     - 1471
   label: 例言
@@ -66,7 +66,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0322_B_000-mulu-4
     span:
-    - front
+    - body
     - 1672
     - 1672
   label: 江味農居士傳
@@ -76,7 +76,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0322_B_000-mulu-5
     span:
-    - front
+    - body
     - 4134
     - 4134
   label: 講義
@@ -222,7 +222,7 @@ table_of_contents:
   label: 校正本跋
   type: mulu
   level: 1
-hash: sha256:fe599529d6c6b221ece885d2642161da12ea0874139538cb46a2fa4f0233df23
+hash: sha256:964fe6db14c6f64825eabe2d1e1cc9ef31c69d6b761f8fa34d3b24083bcb80c3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
